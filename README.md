@@ -27,5 +27,4 @@ It enables farmers to list and sell products, track sales, and calculate profits
 
 ---
 
-## 📂 Project Structure
 
